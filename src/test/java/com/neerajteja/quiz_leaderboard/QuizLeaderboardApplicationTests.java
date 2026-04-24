@@ -1,0 +1,13 @@
+package com.neerajteja.quiz_leaderboard;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class QuizLeaderboardApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
